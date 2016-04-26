@@ -1,4 +1,3 @@
-# senses-unb
+# Senses UnB
 
-This is a sass + compass project. 
-Make sure you have the latest version of these gems. 
+This is a Sass & Compass project. Make sure you have the latest version of these gems.
